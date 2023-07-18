@@ -25,5 +25,5 @@ This program, scanner_document.cpp, is an implementation of a document scanner u
 5. The outer edges of the warped image are cropped to extract the document region.
 6. The original image, the dilated image, the warped image, and the cropped image are displayed.
 
-Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
