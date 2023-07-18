@@ -12,7 +12,7 @@ This program, scanner_document.cpp, is an implementation of a document scanner u
 - OpenCV library
 
 ## Usage
-1. Clone the repository: git clone https://github.com/your-username/document-scanner.git
+1. Clone the repository: git clone https://github.com/yjakubpiwowarski/document-scanner.git
 2. Navigate to the project directory: cd document-scanner
 3. Compile the source code: g++ scanner_document.cpp -o scanner_document pkg-config --libs opencv``
 4. Run the program: ./scanner_document
